@@ -1,6 +1,7 @@
 # Demo_Company_PowerBI_Report
 Hi Everyone,
-This is a complete end toend Power Bi report for a Micro Scale Enterprise's sample data.
+
+This is a complete end to end Power Bi report for a Micro Scale Enterprise's sample data.
 
 This data is a prototype of a real world data.
 
